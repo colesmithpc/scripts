@@ -39,3 +39,20 @@ OS-level automations
 Helper scripts for Linux/Windows environments
 
 New scripts will be added regularly as I continue developing tools and learning new techniques.
+
+How to Use
+
+Clone the repository:
+
+git clone https://github.com/colesmithpc/scripts.git
+
+
+Run any script:
+
+python scriptname.py
+
+
+For shell scripts:
+
+chmod +x script.sh
+./script.sh
