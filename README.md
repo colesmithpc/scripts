@@ -1,58 +1,76 @@
-Scripts Repository
+# **Scripts Repository**
 
-A curated collection of scripts I’ve written for automation, system monitoring, cybersecurity practice, and general tooling. This repo serves as both a portfolio and a utility library—showcasing problem-solving, scripting proficiency, and practical real-world skills.
+A curated collection of scripts I’ve written for **automation**, **system monitoring**, **cybersecurity practice**, and general **utility tooling**.  
+This repository serves as both a **portfolio** and a **practical toolkit**, showcasing scripting skill, problem-solving ability, and real technical experience.
 
-What's Inside
+---
+
+## **What's Inside**
 
 This repository includes scripts across multiple categories:
 
-Security & Monitoring
+### **🔐 Security & Monitoring**
+- System information tools  
+- Resource and performance monitors  
+- Network inspection helpers  
+- Log analysis utilities  
 
-System information tools
+### **⚙️ Automation**
+- Workflow automation  
+- Cleanup and maintenance scripts  
+- File handling and organization tools  
 
-Resource and performance monitors
+### **🐍 Python Utilities**
+- CLI tools  
+- Parsing utilities  
+- Experimental prototypes  
+- Small standalone projects  
 
-Network I/O checkers
+### **💻 Bash / PowerShell**
+- OS-level automation  
+- Quick system helpers  
+- Linux/Windows environment tools  
 
-Log helpers and parsing utilities
+---
 
-Automation
+## **Skills Demonstrated**
 
-Workflow automation
+This repository highlights proficiency in:
 
-Cleanup and maintenance scripts
+- **Python scripting & automation**  
+- **Linux and Windows tooling**  
+- **Cybersecurity fundamentals**  
+- **System diagnostics & analysis**  
+- **Writing clean, modular, maintainable code**
 
-File handling and management tools
+---
 
-Python Utilities
+## **How to Use**
 
-CLI utilities
-
-Parsing tools
-
-Quick prototypes and experiments
-
-Bash / PowerShell
-
-OS-level automations
-
-Helper scripts for Linux/Windows environments
-
-New scripts will be added regularly as I continue developing tools and learning new techniques.
-
-How to Use
-
-Clone the repository:
-
+### **Clone the repository**
+```bash
 git clone https://github.com/colesmithpc/scripts.git
+```
 
-
-Run any script:
-
+### **Run a Python script**
+```bash
 python scriptname.py
+```
 
-
-For shell scripts:
-
+### **Run a shell script**
+```bash
 chmod +x script.sh
 ./script.sh
+```
+
+---
+
+## **Contributions**
+
+This repo is primarily for personal development, but **suggestions and feedback are always welcome**.
+
+---
+
+## **Contact**
+
+If you're a **recruiter**, **collaborator**, or **cybersecurity professional**, feel free to reach out anytime.
